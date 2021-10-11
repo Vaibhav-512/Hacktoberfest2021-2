@@ -112,9 +112,11 @@
 | Novan Aziz Ramadhan | [novanazizr](https://github.com/novanazizr) |
 | Kartik P Madhu | [kartikpmadhu](https://github.com/kartikpmadhu) |
 | Odo Rifqi | [odorifqi](https://github.com/odorifqi) |
+| Michele Barreto | [michelebarreto](https://github.com/michelebarreto) |
 | Giovanni | [J0hnnyGee] (https://github.com/J0hnnyGee) |
 | Parmanand | [parmanand](https://github.com/parmanand)|
 | Savi Jain | [Savijain](https://github.com/Savijain) |
+
 
 
 
