@@ -117,7 +117,7 @@
 | Giovanni | [J0hnnyGee] (https://github.com/J0hnnyGee) |
 | Parmanand | [parmanand](https://github.com/parmanand)|
 | Savi Jain | [Savijain](https://github.com/Savijain) |
-
+| Naufal Saidhus Syuhur | [naufal0911](https://github.com/naufal0911) |
 
 
 
